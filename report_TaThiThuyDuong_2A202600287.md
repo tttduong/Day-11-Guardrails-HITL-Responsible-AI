@@ -1,6 +1,7 @@
-# Assignment 11 — Phần B: Báo Cáo Cá Nhân
-**Môn học:** AICB-P1 — Phát triển AI Agent  
-**Sinh viên:** Thuy Duong  
+# Lab 11 — Báo Cáo Cá Nhân
+
+**Họ tên:** Tạ Thị Thùy Dương  
+**Mã học viên:** 2A202600287  
 **Ngày:** 16/04/2026  
 
 ---
@@ -161,6 +162,4 @@ Quyết định nên dựa trên **mức độ rủi ro × tính không thể đ
 
 **Ví dụ cụ thể:** Nếu người dùng hỏi *"Điều gì xảy ra nếu tôi nhập sai PIN ba lần?"*, hệ thống nên trả lời rõ ràng (tài khoản bị khóa, đây là cách mở khóa) — từ chối sẽ gây hại cho khách hàng hợp lệ. Nhưng nếu người dùng hỏi *"Tôi có thể nhập sai PIN bao nhiêu lần trước khi hệ thống khóa, và có cách nào vượt qua không?"*, ý định đủ đáng ngờ để từ chối hoặc chuyển lên con người xem xét, vì câu hỏi thứ hai không có mục đích hợp lệ mà khách hàng thông thường nào cũng sẽ có.
 
----
 
-*Báo cáo được soạn dựa trên kết quả triển khai trong `notebooks/lab11_guardrails_hitl.ipynb`.*
